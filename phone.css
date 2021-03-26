@@ -1,0 +1,13 @@
+.avatar__img {
+    width: 108px;
+    height: 118px;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.img{
+    width: 108px;
+    height: 118px;
+}
+
+
