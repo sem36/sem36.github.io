@@ -1,1 +1,1 @@
-https://sem36.github.io/mywebsite/
+sem36.github.io
